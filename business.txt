@@ -1,0 +1,11 @@
+Bussiness Entites:
+
+Project: p_id, p_name, p_details, p_duartion, p_status.
+Employee:
+employee id, employee name, employee email, employee project id, employee contact, employee manager id, employee department ID.
+Project Manager:
+project_manager id, project_manager name, project_manager email, project_manager contact, project_manager department ID, project_manager team size, project_manager project id.
+Delivery Manager:
+delivery manager id, delivery manager name, delivery manager project id, delivery manager email.
+Stakeholder:
+stakeholder id, stakeholder name, stakeholder email, stakeholder contact.

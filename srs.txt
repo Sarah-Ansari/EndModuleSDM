@@ -1,0 +1,31 @@
+Title: Online project management system 
+
+Objective: To application is aimed to provide the one platform to employees, managers, stack holders and delivery managers for efficient management of the project handling and the updates regarding the ongoing works.
+
+Teams: Users: employees, project managers, Delivery mangers, Stakeholders
+
+Functional Requirement: 
+Employees: The employees will be able to login in the application with the verified id and details.
+Employees will able to see the projects assigned and the teams working on it.
+Employees will be able to update the status of the project.
+Employees will be able to request for the changes if there any in their project essentials to the managers.
+Employees will be able to update their profile through the verification auto-generated links.
+Project Managers: Project Managers will be able to register themselves through the identity verification.
+Project Managers will be able to update their profile through the verification auto-generated links.
+Project Managers will be able to assign the tasks to the employees.
+Project Managers will be able to decide the teams and the individual member’s tasks.
+Project Managers will be able to give the main updates to the Delivery manager for the specific project.
+Project Managers will be able to request for the changes in the project to the higher authorities.
+
+Delivery Manager: Delivery Managers will be able to register themselves through the identity verification.
+Will be able to update their profile through the verification auto-generated links.
+Delivery Managers will be able to take the make the change in the project requirements any time and these changes will be automatically reflected to the managers and the related project employees through the system generated email.  
+Option will be available to hold the meetings on the same plat forms.
+Updates made by the employees on a particular project with all details will be accessible for the delivery managers.
+
+Stakeholders: Delivery manager will be able to authenticate themselves within the application with auto-generated link sent to their specific mail IDs.
+Delivery manager will be able to make the decisions regarding specific project approval within their organization.
+Delivery manager will have their separate dashboard after login, which will give the real time update within the same window on projects through bar graphs. 
+Detailed information will be available for the individual projects.
+There will be option for stakeholders to arrange the meeting with all stakeholders.
+
