@@ -10,6 +10,8 @@ Employees will able to see the projects assigned and the teams working on it.
 Employees will be able to update the status of the project.
 Employees will be able to request for the changes if there any in their project essentials to the managers.
 Employees will be able to update their profile through the verification auto-generated links.
+There will be separete dashboard for the project managment for employees and able to make the changes in it.
+
 Project Managers: Project Managers will be able to register themselves through the identity verification.
 Project Managers will be able to update their profile through the verification auto-generated links.
 Project Managers will be able to assign the tasks to the employees.

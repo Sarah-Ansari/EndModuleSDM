@@ -9,3 +9,5 @@ Delivery Manager:
 delivery manager id, delivery manager name, delivery manager project id, delivery manager email.
 Stakeholder:
 stakeholder id, stakeholder name, stakeholder email, stakeholder contact.
+dept:
+did,dname.
